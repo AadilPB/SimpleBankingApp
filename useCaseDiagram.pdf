@@ -1,0 +1,561 @@
+%PDF-1.4
+%‚„œ”
+
+1 0 obj
+   << 
+      /Title ()
+      /Author ()
+      /Subject ()
+      /Keywords ()
+      /Creator (FreeHEP Graphics2D Driver)
+      /Producer (com.horstmann.violet.framework.util.PDFGraphics2DStringWriter Revision)
+      /CreationDate (D:20240325220919-04'00')
+      /ModDate (D:20240325220919-04'00')
+      /Trapped /False
+   >>
+endobj
+
+2 0 obj
+   << 
+      /Type /Catalog
+      /Pages 3 0 R
+      /Outlines 4 0 R
+      /PageMode /UseOutlines
+      /ViewerPreferences 5 0 R
+      /OpenAction [6 0 R /Fit]
+   >>
+endobj
+
+5 0 obj
+   << 
+      /FitWindow true
+      /CenterWindow false
+   >>
+endobj
+
+6 0 obj
+   << 
+      /Parent 3 0 R
+      /Type /Page
+      /Contents 7 0 R
+   >>
+endobj
+
+7 0 obj
+   << 
+      /Length 8 0 R
+   >>
+stream
+.93443 0.0000 0.0000 -.93443 20.000 599.67 cm
+q
+0.0000 0.0000 m
+610.00 0.0000 l
+610.00 620.00 l
+0.0000 620.00 l
+h
+W
+n
+q
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+Q
+q
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+0.0000 0.0000 m
+0.0000 620.00 l
+610.00 620.00 l
+610.00 0.0000 l
+h
+W
+n
+1.0000 0.0000 0.0000 1.0000 -90.000 -260.00 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+90.000 260.00 m
+701.00 260.00 l
+701.00 881.00 l
+90.000 881.00 l
+90.000 260.00 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+469.00 639.50 m
+469.00 661.32 437.88 679.00 399.50 679.00 c
+361.12 679.00 330.00 661.32 330.00 639.50 c
+330.00 617.68 361.12 600.00 399.50 600.00 c
+437.88 600.00 469.00 617.68 469.00 639.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+469.00 639.50 m
+469.00 661.32 437.88 679.00 399.50 679.00 c
+361.12 679.00 330.00 661.32 330.00 639.50 c
+330.00 617.68 361.12 600.00 399.50 600.00 c
+437.88 600.00 469.00 617.68 469.00 639.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 330.00 600.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 23.000 45.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Make a purchase) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -330.00 -600.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+439.00 559.50 m
+439.00 575.79 412.36 589.00 379.50 589.00 c
+346.64 589.00 320.00 575.79 320.00 559.50 c
+320.00 543.21 346.64 530.00 379.50 530.00 c
+412.36 530.00 439.00 543.21 439.00 559.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+439.00 559.50 m
+439.00 575.79 412.36 589.00 379.50 589.00 c
+346.64 589.00 320.00 575.79 320.00 559.50 c
+320.00 543.21 346.64 530.00 379.50 530.00 c
+412.36 530.00 439.00 543.21 439.00 559.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 320.00 530.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 19.000 35.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Deposit Money) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -320.00 -530.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+429.00 489.50 m
+429.00 505.79 402.36 519.00 369.50 519.00 c
+336.64 519.00 310.00 505.79 310.00 489.50 c
+310.00 473.21 336.64 460.00 369.50 460.00 c
+402.36 460.00 429.00 473.21 429.00 489.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+429.00 489.50 m
+429.00 505.79 402.36 519.00 369.50 519.00 c
+336.64 519.00 310.00 505.79 310.00 489.50 c
+310.00 473.21 336.64 460.00 369.50 460.00 c
+402.36 460.00 429.00 473.21 429.00 489.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 310.00 460.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 15.000 35.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Withdraw Money) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -310.00 -460.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+469.00 749.50 m
+469.00 771.32 437.88 789.00 399.50 789.00 c
+361.12 789.00 330.00 771.32 330.00 749.50 c
+330.00 727.68 361.12 710.00 399.50 710.00 c
+437.88 710.00 469.00 727.68 469.00 749.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+469.00 749.50 m
+469.00 771.32 437.88 789.00 399.50 789.00 c
+361.12 789.00 330.00 771.32 330.00 749.50 c
+330.00 727.68 361.12 710.00 399.50 710.00 c
+437.88 710.00 469.00 727.68 469.00 749.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 330.00 710.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 23.000 45.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Delete Customer) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -330.00 -710.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+449.00 849.50 m
+449.00 865.79 422.36 879.00 389.50 879.00 c
+356.64 879.00 330.00 865.79 330.00 849.50 c
+330.00 833.21 356.64 820.00 389.50 820.00 c
+422.36 820.00 449.00 833.21 449.00 849.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+449.00 849.50 m
+449.00 865.79 422.36 879.00 389.50 879.00 c
+356.64 879.00 330.00 865.79 330.00 849.50 c
+330.00 833.21 356.64 820.00 389.50 820.00 c
+422.36 820.00 449.00 833.21 449.00 849.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 330.00 820.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 20.000 35.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Add Customer) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -330.00 -820.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+409.00 359.50 m
+409.00 375.79 382.36 389.00 349.50 389.00 c
+316.64 389.00 290.00 375.79 290.00 359.50 c
+290.00 343.21 316.64 330.00 349.50 330.00 c
+382.36 330.00 409.00 343.21 409.00 359.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+409.00 359.50 m
+409.00 375.79 382.36 389.00 349.50 389.00 c
+316.64 389.00 290.00 375.79 290.00 359.50 c
+290.00 343.21 316.64 330.00 349.50 330.00 c
+382.36 330.00 409.00 343.21 409.00 359.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 290.00 330.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 43.000 35.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(logout) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -290.00 -330.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+409.00 279.50 m
+409.00 290.27 382.36 299.00 349.50 299.00 c
+316.64 299.00 290.00 290.27 290.00 279.50 c
+290.00 268.73 316.64 260.00 349.50 260.00 c
+382.36 260.00 409.00 268.73 409.00 279.50 c
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+409.00 279.50 m
+409.00 290.27 382.36 299.00 349.50 299.00 c
+316.64 299.00 290.00 290.27 290.00 279.50 c
+290.00 268.73 316.64 260.00 349.50 260.00 c
+382.36 260.00 409.00 268.73 409.00 279.50 c
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 290.00 260.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 46.000 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(login) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -290.00 -260.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+670.00 540.00 m
+675.33 540.00 678.00 537.33 678.00 532.00 c
+678.00 526.67 675.33 524.00 670.00 524.00 c
+664.67 524.00 662.00 526.67 662.00 532.00 c
+662.00 537.33 664.67 540.00 670.00 540.00 c
+670.00 560.00 l
+658.00 546.00 m
+682.00 546.00 l
+655.86 575.14 m
+670.00 560.00 l
+685.14 575.14 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 640.50 584.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Customer) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -640.50 -584.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+120.00 520.00 m
+125.33 520.00 128.00 517.33 128.00 512.00 c
+128.00 506.67 125.33 504.00 120.00 504.00 c
+114.67 504.00 112.00 506.67 112.00 512.00 c
+112.00 517.33 114.67 520.00 120.00 520.00 c
+120.00 540.00 l
+108.00 526.00 m
+132.00 526.00 l
+105.86 555.14 m
+120.00 540.00 l
+135.14 555.14 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 94.000 564.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Manager) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -94.000 -564.00 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+370.71 298.77 m
+640.00 536.67 l
+S
+S
+S
+333.61 299.24 m
+120.00 500.00 l
+S
+S
+S
+386.36 383.86 m
+640.00 553.33 l
+S
+S
+S
+318.93 385.67 m
+150.00 533.33 l
+S
+S
+S
+422.94 504.12 m
+640.00 570.00 l
+S
+S
+S
+439.86 562.06 m
+640.00 586.67 l
+S
+S
+S
+463.75 623.47 m
+640.00 603.33 l
+S
+S
+S
+356.27 718.77 m
+150.00 566.67 l
+S
+S
+S
+365.38 822.64 m
+120.00 600.00 l
+S
+S
+S
+Q
+Q
+
+endstream
+endobj
+
+8 0 obj
+   8427
+endobj
+
+9 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F1
+      /BaseFont /Helvetica
+      /Encoding 10 0 R
+   >>
+endobj
+
+10 0 obj
+   << 
+      /Type /Encoding
+      /Differences [0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron /.notdef /Euro /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+   >>
+endobj
+
+3 0 obj
+   << 
+      /Parent null
+      /Type /Pages
+      /MediaBox [0.0000 0.0000 610.00 620.00]
+      /Resources 11 0 R
+      /Kids [6 0 R]
+      /Count 1
+   >>
+endobj
+
+12 0 obj
+   [/PDF /Text /ImageC]
+endobj
+
+13 0 obj
+   << 
+      /F1 9 0 R
+   >>
+endobj
+
+14 0 obj
+   << 
+      /Alpha1
+      << 
+         /ca 1.0000
+         /CA 1.0000
+         /BM /Normal
+         /AIS false
+      >>
+   >>
+endobj
+
+11 0 obj
+   << 
+      /ProcSet 12 0 R
+      /Font 13 0 R
+      /ExtGState 14 0 R
+   >>
+endobj
+
+4 0 obj
+   << 
+      /Type /Outlines
+      /First 15 0 R
+      /Last 15 0 R
+   >>
+endobj
+
+15 0 obj
+   << 
+      /Parent 4 0 R
+      /Title (Page 1 \(untitled\))
+      /Prev null
+      /Next null
+      /Dest [6 0 R /Fit]
+   >>
+endobj
+
+xref
+0 16
+0000000000 65535 f
+0000000019 00000 n
+0000000373 00000 n
+0000011569 00000 n
+0000012108 00000 n
+0000000566 00000 n
+0000000650 00000 n
+0000000747 00000 n
+0000009248 00000 n
+0000009276 00000 n
+0000009421 00000 n
+0000012005 00000 n
+0000011752 00000 n
+0000011797 00000 n
+0000011849 00000 n
+0000012206 00000 n
+
+trailer
+<< 
+   /Size 15
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+
+startxref
+12360
+
+%%EOF
